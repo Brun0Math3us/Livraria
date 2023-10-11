@@ -1,0 +1,33 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+
+
+
+
+header, footer{
+    width: 100%;
+    text-align: center;
+}
+
+
+main{
+    float: left;
+    width: 60%;
+    background-color: aqua;
+}
+
+
+aside {
+    background-color: blue;
+    float: right;
+    width: 40%;
+}
+
+
+footer{
+    position: fixed;
+    bottom: 0;
+}
