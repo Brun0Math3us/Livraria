@@ -31,3 +31,21 @@ footer{
     position: fixed;
     bottom: 0;
 }
+
+
+.book{
+    height: 240px;
+    text-align: center;
+    width: 130px;
+}
+
+
+img {
+    max-height: 150px;
+}
+
+
+#gallery{
+    display: flex;
+    flex-wrap: wrap;
+}
